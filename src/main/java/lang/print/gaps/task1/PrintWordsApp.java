@@ -1,7 +1,10 @@
 package lang.print.gaps.task1;
 
 public class PrintWordsApp {
+    // edited
     public static void main(String[] args) {
-        System.out.println("java \nis \nsmth");
+        System.out.println("java");
+        System.out.println("is");
+        System.out.println("smth");
     }
 }
